@@ -8,4 +8,7 @@ int main()
     h=sqrt(a*a+b*b);
     printf("%.2f",h);
     return 0;
+    
+    
+    
 }
